@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+
+.container-fluid-1 {
+  padding: 0vh;
+}
+
+.carousel-item {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+}
+
+.title {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 10vh;
+  font-weight: bold;
+  padding: 2vh;
+}
+
+.col {
+  background-color: white;
+  width: 70%;
+}
+
+.col-side {
+  width: 15%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.blockquote-footer {
+  padding: 4vh;
+}
+
+.accordion-button {
+  background-color: black;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+.footer-logo {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
